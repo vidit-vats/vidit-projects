@@ -18,7 +18,7 @@ int main()
 }
 
 
-
+/* This is the main coding of our factorial program*/
 int calfac (int a)
 {
 	int i, f = 1;
