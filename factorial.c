@@ -27,4 +27,4 @@ int calfac (int a)
 		f = f * i;
 	}
 	return f;
-}
+
